@@ -8,7 +8,7 @@ export default function SignUp() {
                 <div className="container">
                     <h1>SIGN UP</h1>
                     <p>to hear about our latest packages</p>
-                    
+                    <br/>
                     <label for="email"><b>Email: </b></label>
                     <input type="text" placeholder="Enter Email" name="email" required></input>
                     <div class="clearfix">
