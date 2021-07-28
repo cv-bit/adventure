@@ -16,14 +16,14 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                             src= {amazon} 
-                            text='Explore the hidden wterfall deep
+                            text='Explore the hidden waterfall deep
                             inside the Amazon Jungle'
                             label='Adventure'
                             path='/services'
                         />
                         <CardItem 
                             src= {bali} 
-                            text='Travel through the ISlands of Bali in a Private Cruise'
+                            text='Travel through the Islands of Bali in a Private Cruise'
                             label='Luxury'
                             path='/services'
                         />
