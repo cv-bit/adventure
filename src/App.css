@@ -40,5 +40,15 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
-    font-size: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.clearfix button{
+    padding: 5px;
+    margin-top: 25px;
+}
+
+.clearfix button:hover {
+    cursor: pointer;
 }
